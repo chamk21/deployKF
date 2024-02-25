@@ -115,6 +115,7 @@ rules:
   - experiments
   - jobs
   verbs:
+  - create
   - get
   - list
 - apiGroups:
